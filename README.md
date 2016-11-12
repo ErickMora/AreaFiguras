@@ -1,1 +1,1 @@
-# AreaFiguras
+Proyecto desarrollado en Java que incluye una variable objeto llamada Punto, de esta manera es posible tener puntos o coordenadas xy. También permite formar figuras a partir de estos puntos. Además se calcula el área de las figuras conocidos sus puntos. De esta manera se ponen en práctica algunos conceptos de programación orientada a objetos, como encapsulamiento, herencia, polimorfismo
